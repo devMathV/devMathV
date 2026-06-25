@@ -28,7 +28,7 @@ relational databases and version control.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,nodejs,cs,dotnet,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cs,dotnet,mysql" />
 </p>
 
 ---
